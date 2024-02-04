@@ -1,0 +1,10 @@
+button:hover {
+    scale: 1.03;
+    transition: .5s;
+}
+
+
+button a {
+    text-decoration: none;
+    color:white;
+}
